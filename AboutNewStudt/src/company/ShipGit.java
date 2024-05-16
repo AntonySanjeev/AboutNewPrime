@@ -1,7 +1,7 @@
 package company;
 
 import java.util.stream.IntStream;
-
+//Lets do this program
 public class ShipGit {
 
 	public static void main(String[] args) 
